@@ -1,0 +1,20 @@
+#include <stdio.h>
+int main()
+{
+int no,num,i=0;
+scanf("%d",&num);
+num=num%10;
+if(num%2!=0&num!=0)
+{  
+    no=1;
+}
+
+
+if(no==1)
+{
+    printf("Odd");
+}
+else
+printf("Even");
+    return 0;
+}

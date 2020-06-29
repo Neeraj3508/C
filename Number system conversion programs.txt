@@ -1,0 +1,48 @@
+Number system conversion programs
+
+Q1.Write a program in C to convert a decimal number into binary without using an array. 
+Enter a number to convert : 25
+Expected Output :
+The Binary of 25 is 11001.
+SOLUTION:
+
+Q2. Write a program in C to convert a binary number into a decimal number without using array.
+Test Data :
+Input a binary number :1010101
+Expected Output :
+The Binary Number : 1010101
+The equivalent Decimal Number : 85
+
+Q3.Write a program in C to convert a decimal number into octal without using an array. 
+Test Data :
+Enter a number to convert : 79
+Expected Output :
+The Octal of 79 is 117.
+
+Q4.Write a program in C to convert an octal number to a decimal without using an array.
+Test Data :
+Input an octal number (using digit 0 - 7) :745
+Expected Output :
+The Octal Number : 745
+The equivalent Decimal Number : 485
+Click me to see the solution
+
+Q5.Write a program in C to convert a binary number to octal.
+Test Data :
+Input a binary number :1001
+Expected Output :
+The Binary Number : 1001
+The equivalent Octal Number : 11
+
+Q6.Write a program in C to convert an octal number into binary. 
+Test Data :
+Input an octal number (using digit 0 - 7) :57
+Expected Output :
+The Octal Number : 57
+The equivalent Binary Number : 101111
+
+Q7.Write a program in C to convert a decimal number to hexadecimal. 
+Test Data :
+Input any Decimal number: 79
+Expected Output :
+The equivalent Hexadecimal Number : 4F
